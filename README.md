@@ -1,6 +1,6 @@
 # 说明
 
-基于Elixir的[Maru框架](https://github.com/elixir-maru/maru)快速开发API微服务的模板项目，方便快捷。
+基于Elixir的[Maru框架](https://github.com/elixir-maru/maru)快速开发API微服务Docker化的模板项目，方便快捷。
 
 ### ecto操作命令
 
